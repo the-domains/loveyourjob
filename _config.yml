@@ -1,0 +1,23 @@
+name: LoveYourJob
+favicon: null
+layout_spectrum: 0.10896242829039693
+typography_spectrum: 0.4109113020822406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.08848549239337444
+  lightness: 0.8746872507035732
+  saturation: 0.22469737567007542
+  rhythmicContrast: 0.2977978880517185
+purpose: []
