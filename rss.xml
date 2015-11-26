@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LoveYourJob]]></title>
+        <description><![CDATA[LoveYourJob]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 Nov 2015 17:00:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Becky]]></title>
+            <description><![CDATA[<article><h1>Becky</h1><p>When it came time to choose a career path for college, I was torn between fashion design and graphic design. Then my mom asked me, “Do you like designing the clothes or drawing the clothes?” Game over. From that point on, I pursued graphic design and never looked back.
+
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182cf163-5970-4ea2-bc7f-fc14c141a389.jpg"></article>]]></description>
+            <link>undefinedbecky/index.html</link>
+            <guid isPermaLink="false">1ad36492-861b-400f-82ec-a0be6fc6a1be</guid>
+            <pubDate>Thu, 26 Nov 2015 17:00:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
