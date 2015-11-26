@@ -1,7 +1,7 @@
 name: LoveYourJob
 favicon: null
-layout_spectrum: 0.10896242829039693
-typography_spectrum: 0.4109113020822406
+layout_spectrum: 0
+typography_spectrum: 0.44096
 cta:
   domain: null
   bucket: null
