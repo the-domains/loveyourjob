@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[LoveYourJob]]></title>
         <description><![CDATA[LoveYourJob]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loveyourjob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 17:00:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 Nov 2015 17:11:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loveyourjob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucas]]></title>
+            <description><![CDATA[<article><h1>Lucas</h1><p>Lucas.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b0eb9f8-1287-4b07-81a5-157e0c613c8d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/loveyourjob/lucas/index.html</link>
+            <guid isPermaLink="false">aaf2311d-cdbb-4589-a08f-421decd10f5e</guid>
+            <pubDate>Thu, 26 Nov 2015 17:11:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Becky]]></title>
             <description><![CDATA[<article><h1>Becky</h1><p>When it came time to choose a career path for college, I was torn between fashion design and graphic design. Then my mom asked me, “Do you like designing the clothes or drawing the clothes?” Game over. From that point on, I pursued graphic design and never looked back.
 
 </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/182cf163-5970-4ea2-bc7f-fc14c141a389.jpg"></article>]]></description>
-            <link>undefinedbecky/index.html</link>
+            <link>https://thegrid.ai/loveyourjob/becky/index.html</link>
             <guid isPermaLink="false">1ad36492-861b-400f-82ec-a0be6fc6a1be</guid>
             <pubDate>Thu, 26 Nov 2015 17:00:13 GMT</pubDate>
         </item>
